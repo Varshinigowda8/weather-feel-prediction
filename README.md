@@ -44,14 +44,15 @@ bash
 python main.py
 Enter a temperature when prompted:
 
-Code
+
 Enter today's temperature in ℃: 28
 See the output:
 
-Code
+
 At 28.0℃:
 - KNN Model says: warm
 - Decision Tree says: warm
 - Logistic Regression says: warm
 Stay vibey 🌟
+
 
